@@ -36,7 +36,7 @@ const Hero: React.FC = () => {
         devicePixelRatio: 2,
         width: width,
         height: width,
-        phi: 0,
+        phi: 0.96,
         theta: 0.3,
         dark: 0,
         diffuse: 1.2,
