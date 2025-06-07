@@ -11,7 +11,7 @@ const Hero: React.FC = () => {
   useEffect(() => {
     let width = 0;
     let currentScrollY = 0;
-    let phi = 0;
+    let phi = -1.5;
 
     const onResize = () => {
       width = Math.min(window.innerWidth, 1200);
@@ -36,7 +36,7 @@ const Hero: React.FC = () => {
         devicePixelRatio: 2,
         width: width,
         height: width,
-        phi: 0.96,
+        phi: -3.0,
         theta: 0.3,
         dark: 0,
         diffuse: 1.2,
