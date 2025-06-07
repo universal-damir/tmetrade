@@ -52,14 +52,14 @@ const Markets: React.FC = () => {
       alt: "Coro Logo"
     },
     {
-      name: "Melitta",
-      logo: "/logos/melitta-logo.png",
-      alt: "Melitta Logo"
-    },
-    {
       name: "Meyle",
       logo: "/logos/meyle-logo.png",
       alt: "Meyle Logo"
+    },
+    {
+      name: "Melitta",
+      logo: "/logos/melitta-logo.png",
+      alt: "Melitta Logo"
     },
     {
       name: "Robot Coupe",
