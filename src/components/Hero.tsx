@@ -64,8 +64,6 @@ const Hero: React.FC = () => {
           
           // Adjust rotation based on pointer interaction
           if (pointerInteracting.current !== null) {
-            const { width, height } = state;
-            const distance = Math.sqrt(width * width + height * height) * 0.7;
             const interactionDelta = pointerInteractionMovement.current;
             phi += interactionDelta * 0.01;
             pointerInteractionMovement.current = 0;
