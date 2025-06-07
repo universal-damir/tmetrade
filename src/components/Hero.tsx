@@ -128,7 +128,7 @@ const Hero: React.FC = () => {
               Connecting Europe to UAE Markets
             </h1>
             <p className="text-base sm:text-lg md:text-xl text-primary-600 mb-6 sm:mb-8 max-w-xl mx-auto lg:mx-0">
-              TME Trade is your trusted partner for establishing and growing business connections between European enterprises and the dynamic markets of the UAE.
+              TME Trade is your trusted partner for establishing and growing business connections between European enterprises and the UAE market.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start">
               <Link

@@ -38,7 +38,7 @@ const About: React.FC = () => {
           <div className="w-20 h-1 bg-accent mx-auto mt-4 mb-6"></div>
           <p className="text-center text-gray-600 max-w-3xl mx-auto">
             TME Trade brings 20 years of experience in bridging European businesses with
-            the growing markets of the UAE.
+            the growing UAE market.
           </p>
         </div>
 
@@ -49,7 +49,7 @@ const About: React.FC = () => {
             </div>
             <h3 className="text-xl font-semibold mb-4">Our Mission</h3>
             <p className="text-gray-600">
-              To provide European businesses with strategic access, cultural understanding, and local expertise needed to successfully navigate and thrive in UAE markets.
+              To provide European businesses with access, cultural understanding, and local expertise needed to succeed in the UAE market.
             </p>
           </div>
 
@@ -79,7 +79,7 @@ const About: React.FC = () => {
             <div className="max-w-4xl mx-auto">
               <h3 className="text-2xl md:text-3xl font-semibold mb-6 text-accent">Value Proposition</h3>
               <p className="text-lg mb-8">
-                TME Trade serves as the vital bridge connecting European enterprises to the dynamic markets of the UAE. Through our deep understanding of both business cultures, regulatory environments, and market opportunities, we reduce barriers to entry and accelerate your business growth.
+                TME Trade serves as the vital bridge connecting European enterprises to the UAE market. Through our deep understanding of both business cultures, regulatory environments, and market opportunities, we reduce barriers to entry and accelerate your business growth.
               </p>
               <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                 <div className="flex items-start">
@@ -89,7 +89,7 @@ const About: React.FC = () => {
                   <div className="ml-4">
                     <h4 className="text-xl font-medium text-white mb-2">Local Presence</h4>
                     <p className="text-primary-100">
-                      Our established network in UAE markets provides you with immediate local credibility and connections.
+                      Our established network in UAE market provides you with immediate local credibility and connections.
                     </p>
                   </div>
                 </div>

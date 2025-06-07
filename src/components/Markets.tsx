@@ -95,7 +95,7 @@ const Markets: React.FC = () => {
           <h2 className="text-center text-primary-dark">Markets & Industries</h2>
           <div className="w-20 h-1 bg-accent mx-auto mt-4 mb-6"></div>
           <p className="text-center text-gray-600 max-w-3xl mx-auto">
-            We connect European businesses with thriving markets across the UAE, specializing in key industries with high growth potential.
+            We connect European businesses with markets across the UAE, specializing in key industries with high growth potential.
           </p>
         </div>
 

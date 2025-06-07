@@ -44,7 +44,7 @@ const WhyChooseUs: React.FC = () => {
     {
       icon: <BookOpen size={40} className="text-primary" />,
       title: "Cultural Understanding",
-      description: "Expertise in navigating the cultural aspects of business in the UAE, ensuring appropriate communication and relationship building."
+      description: "Expertise in managing the cultural aspects of business in the UAE, ensuring appropriate communication and relationship building."
     },
     {
       icon: <Users size={40} className="text-primary" />,

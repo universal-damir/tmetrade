@@ -37,7 +37,7 @@ const Contact: React.FC = () => {
           <h2 className="text-center text-primary-dark">Contact Us</h2>
           <div className="w-20 h-1 bg-accent mx-auto mt-4 mb-6"></div>
           <p className="text-center text-gray-600 max-w-3xl mx-auto">
-            Ready to expand your business into the UAE markets? Get in touch with our team to discuss your opportunities.
+            Ready to expand your business into the UAE market? Get in touch with our team to discuss your opportunities.
           </p>
         </div>
 
@@ -110,7 +110,7 @@ const Contact: React.FC = () => {
               <div className="bg-primary p-6 rounded-lg">
                 <h4 className="text-xl font-semibold text-white mb-2">Ready to Get Started?</h4>
                 <p className="text-primary-100 mb-4">
-                  Contact us today to discuss how we can help your business succeed in the UAE markets.
+                  Contact us today to discuss how we can help your business succeed in the UAE market.
                 </p>
                 <a 
                   href="mailto:info@tgtllc.ae" 

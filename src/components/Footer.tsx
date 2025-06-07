@@ -16,7 +16,7 @@ const Footer: React.FC = () => {
               />
             </div>
             <p className="text-primary-100 mb-8">
-              Your trusted partner for establishing and growing business connections between European enterprises and the dynamic markets of the UAE.
+              Your trusted partner for establishing and growing business connections between European enterprises and the UAE market.
             </p>
           </div>
 

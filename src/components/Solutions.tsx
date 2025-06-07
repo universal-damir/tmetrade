@@ -36,7 +36,7 @@ const Solutions: React.FC = () => {
       icon: <BarChart3 size={40} className="text-primary animate-pulse" />,
       features: [
         "Market entry strategy development",
-        "Business plan adaptation for UAE markets",
+        "Business plan adaptation for the UAE market",
         "Regulatory compliance guidance",
         "Entity setup and structuring",
         "Business licensing assistance"
@@ -73,7 +73,7 @@ const Solutions: React.FC = () => {
           <h2 className="text-center text-primary-dark">Our Solutions</h2>
           <div className="w-20 h-1 bg-accent mx-auto mt-4 mb-6"></div>
           <p className="text-center text-gray-600 max-w-3xl mx-auto">
-            We provide comprehensive business solutions tailored to your specific needs, ensuring a successful entry and sustainable growth in UAE markets.
+            We provide comprehensive business solutions tailored to your specific needs, ensuring a successful entry and sustainable growth in the UAE market.
           </p>
         </div>
 
