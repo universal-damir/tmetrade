@@ -47,9 +47,9 @@ const Markets: React.FC = () => {
       alt: "Baumer Logo"
     },
     {
-      name: "Meiko",
-      logo: "/logos/meiko-logo.png",
-      alt: "Meiko Logo"
+      name: "Coro",
+      logo: "/logos/coro-logo.png",
+      alt: "Coro Logo"
     },
     {
       name: "Melitta",
@@ -57,14 +57,14 @@ const Markets: React.FC = () => {
       alt: "Melitta Logo"
     },
     {
+      name: "Meyle",
+      logo: "/logos/meyle-logo.png",
+      alt: "Meyle Logo"
+    },
+    {
       name: "Robot Coupe",
       logo: "/logos/robot_coupe-logo.png",
       alt: "Robot Coupe Logo"
-    },
-    {
-      name: "Schneider",
-      logo: "/logos/scheneider-logo.png",
-      alt: "Schneider Logo"
     },
     {
       name: "Semco",
