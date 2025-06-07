@@ -97,7 +97,7 @@ const Contact: React.FC = () => {
                 <h3 className="text-xl font-semibold text-primary-dark mb-2">Address</h3>
                 <div className="text-gray-700">
                   <p>Dubai Investments Park 2</p>
-                  <p>Silver Building, Office 14</p>
+                  <p>Silver Building, Offices 11-17</p>
                   <p>Dubai, UAE</p>
                   <span className="text-accent hover:text-accent-dark transition-colors text-sm mt-2 inline-block">
                     View on Map

@@ -76,7 +76,7 @@ const Footer: React.FC = () => {
                     className="text-primary-100 hover:text-white transition-colors cursor-pointer"
                   >
                     Dubai Investments Park 2<br />
-                    Silver Building, Office 14<br />
+                    Silver Building, Offices 11-17<br />
                     Dubai, UAE
                   </a>
                 </div>
@@ -88,7 +88,7 @@ const Footer: React.FC = () => {
         <div className="mt-16 pt-8 border-t border-primary-600 text-center">
           <p className="text-primary-200 mb-4">© {new Date().getFullYear()} TME Trade. All rights reserved.</p>
           <p className="text-primary-300 text-sm">
-            Trust Middle East General Trading LLC (TGT LLC) is registered with Dubai Economy and Tourism with Commercial License no. 651406 since 21.03.2011.
+            Trust Middle East General Trading LLC is registered with Dubai Department of Economy and Tourism with Commercial License no. 651406 since 21.03.2011.
           </p>
         </div>
       </div>

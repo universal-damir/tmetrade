@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Globe circle -->
+  <circle cx="8" cy="8" r="7" fill="#61726E" stroke="#4A5A56" stroke-width="0.5"/>
+  
+  <!-- Simplified longitude lines -->
+  <ellipse cx="8" cy="8" rx="5" ry="7" fill="none" stroke="#F5F7F6" stroke-width="0.8" opacity="0.8"/>
+  <ellipse cx="8" cy="8" rx="2.5" ry="7" fill="none" stroke="#F5F7F6" stroke-width="0.6" opacity="0.6"/>
+  
+  <!-- Simplified latitude lines -->
+  <ellipse cx="8" cy="8" rx="7" ry="5" fill="none" stroke="#F5F7F6" stroke-width="0.8" opacity="0.8"/>
+  <ellipse cx="8" cy="8" rx="7" ry="2.5" fill="none" stroke="#F5F7F6" stroke-width="0.6" opacity="0.6"/>
+  
+  <!-- Equator and prime meridian -->
+  <line x1="1" y1="8" x2="15" y2="8" stroke="#F5F7F6" stroke-width="0.8" opacity="0.9"/>
+  <line x1="8" y1="1" x2="8" y2="15" stroke="#F5F7F6" stroke-width="0.8" opacity="0.9"/>
+</svg> 

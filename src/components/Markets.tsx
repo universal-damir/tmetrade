@@ -42,18 +42,48 @@ const Markets: React.FC = () => {
 
   const companyLogos = [
     {
-      name: "Tournus Equipment",
-      logo: "/tournousequipment-logo.png",
-      alt: "Tournus Equipment Logo"
+      name: "Baumer",
+      logo: "/logos/baumer-logo.png",
+      alt: "Baumer Logo"
+    },
+    {
+      name: "Meiko",
+      logo: "/logos/meiko-logo.png",
+      alt: "Meiko Logo"
+    },
+    {
+      name: "Melitta",
+      logo: "/logos/melitta-logo.png",
+      alt: "Melitta Logo"
     },
     {
       name: "Robot Coupe",
-      logo: "/robotcoupe-logo.png",
+      logo: "/logos/robot_coupe-logo.png",
       alt: "Robot Coupe Logo"
     },
     {
+      name: "Schneider",
+      logo: "/logos/scheneider-logo.png",
+      alt: "Schneider Logo"
+    },
+    {
+      name: "Semco",
+      logo: "/logos/semco-logo.png",
+      alt: "Semco Logo"
+    },
+    {
+      name: "Tiag",
+      logo: "/logos/tiag-logo.png",
+      alt: "Tiag Logo"
+    },
+    {
+      name: "Tournus Equipment",
+      logo: "/logos/tournus_equipement-logo.png",
+      alt: "Tournus Equipment Logo"
+    },
+    {
       name: "Wacom",
-      logo: "/wacom-logo.png",
+      logo: "/logos/wacom-logo.png",
       alt: "Wacom Logo"
     }
   ];
@@ -89,14 +119,14 @@ const Markets: React.FC = () => {
             
             <div className="mt-12">
               <h4 className="text-xl font-semibold mb-6 text-center text-accent">Trusted By Leading Companies</h4>
-              <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mt-6">
+              <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6 mt-6">
                 {companyLogos.map((company, index) => (
                   <div key={index} className="flex items-center justify-center">
-                    <div className="bg-white bg-opacity-95 w-full h-20 rounded-md flex items-center justify-center p-4 hover:bg-opacity-100 transition-all duration-300">
+                    <div className="bg-white bg-opacity-95 w-full h-24 rounded-md flex items-center justify-center p-6 hover:bg-opacity-100 transition-all duration-300">
                       <img 
                         src={company.logo} 
                         alt={company.alt}
-                        className="max-h-12 max-w-full object-contain"
+                        className="max-h-16 max-w-48 w-auto h-auto object-contain"
                       />
                     </div>
                   </div>
