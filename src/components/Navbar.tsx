@@ -3,7 +3,6 @@ import { Link } from 'react-scroll';
 import { Menu, X } from 'lucide-react';
 
 const navLinks = [
-  { name: 'Home', to: 'hero', offset: -100 },
   { name: 'About Us', to: 'about', offset: -80 },
   { name: 'Solutions', to: 'solutions', offset: -80 },
   { name: 'Markets', to: 'markets', offset: -80 },
