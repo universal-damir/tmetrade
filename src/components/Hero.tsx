@@ -123,7 +123,7 @@ const Hero: React.FC = () => {
         <div className="flex flex-col lg:flex-row items-center">
           <div className="w-full lg:w-1/2 mb-8 lg:mb-0 lg:pr-12 text-center lg:text-left">
             <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold text-primary-dark mb-4 sm:mb-6 leading-tight">
-              Connecting Europe to UAE Markets
+              Connecting Europe to UAE Market
             </h1>
             <p className="text-base sm:text-lg md:text-xl text-primary-600 mb-6 sm:mb-8 max-w-xl mx-auto lg:mx-0">
               TME Trade is your trusted partner for establishing and growing business connections between European enterprises and the UAE market.
