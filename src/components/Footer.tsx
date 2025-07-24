@@ -48,8 +48,8 @@ const Footer: React.FC = () => {
                 <Mail className="w-5 h-5 mr-3 mt-1 text-accent" />
                 <div>
                   <p className="text-white font-medium">Email</p>
-                  <a href="mailto:info@tme-trade.com" className="text-primary-100 hover:text-white transition-colors">
-                    info@tme-trade.com
+                  <a href="mailto:info@TME-Trade.com" className="text-primary-100 hover:text-white transition-colors">
+                    info@TME-Trade.com
                   </a>
                 </div>
               </li>
