@@ -61,7 +61,7 @@ const Contact: React.FC = () => {
 
               {/* Phone */}
               <a
-                href="tel:+97148841321"
+                href="tel:+971488413929"
                 className="bg-white p-6 rounded-lg shadow-sm text-center hover:shadow-hover transition-all duration-300 cursor-pointer group"
               >
                 <div className="w-16 h-16 bg-primary-100 rounded-full flex items-center justify-center mx-auto mb-4 group-hover:bg-primary-200 transition-colors">
@@ -72,7 +72,7 @@ const Contact: React.FC = () => {
                   <p className="text-gray-700">
                     <span className="font-medium">T:</span> 
                     <span className="text-accent hover:text-accent-dark transition-colors ml-2">
-                      +971 4 8 84 13 2
+                      +971 4 8 84 13 29
                     </span>
                   </p>
                   <p className="text-gray-700">
