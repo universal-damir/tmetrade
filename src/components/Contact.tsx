@@ -47,7 +47,7 @@ const Contact: React.FC = () => {
               
               {/* Email */}
               <a 
-                href="mailto:info@tgtllc.ae"
+                href="mailto:info@tme-trade.com"
                 className="bg-white p-6 rounded-lg shadow-sm text-center hover:shadow-hover transition-all duration-300 cursor-pointer group"
               >
                 <div className="w-16 h-16 bg-primary-100 rounded-full flex items-center justify-center mx-auto mb-4 group-hover:bg-primary-200 transition-colors">
@@ -55,7 +55,7 @@ const Contact: React.FC = () => {
                 </div>
                 <h3 className="text-xl font-semibold text-primary-dark mb-2">Email</h3>
                 <span className="text-accent hover:text-accent-dark transition-colors font-medium">
-                  info@tgtllc.ae
+                  info@tme-trade.com
                 </span>
               </a>
 
@@ -113,7 +113,7 @@ const Contact: React.FC = () => {
                   Contact us today to discuss how we can help your business succeed in the UAE market.
                 </p>
                 <a 
-                  href="mailto:info@tgtllc.ae" 
+                  href="mailto:info@tme-trade.com" 
                   className="btn btn-outline bg-white text-primary border-white hover:bg-accent hover:border-accent hover:text-white"
                 >
                   Send Us an Email
